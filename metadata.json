@@ -1,0 +1,6 @@
+{
+  "name": "Barteri - მეორადი ნივთების გაცვლა და გაჩუქება",
+  "description": "მეორადი ნივთებისა და ტექნიკის გაცვლა/გაჩუქების ქართული პლატფორმა: ჩატი, კომენტარები, ფოტოების ატვირთვა და შავ/თეთრი რეჟიმი.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
